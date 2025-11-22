@@ -16,10 +16,8 @@ PCB
 
 Image of the case and lid 
 
-case
 <img width="784" height="637" alt="image" src="https://github.com/user-attachments/assets/cc450a3d-e380-4b91-bc92-c762ed171ff0" />
 
-Lid
 <img width="911" height="631" alt="image" src="https://github.com/user-attachments/assets/a9d1d036-87c7-4029-b9ff-ec3108b5e5ea" />
 
 This is how it will fit together 
