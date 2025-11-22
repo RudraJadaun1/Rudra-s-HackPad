@@ -8,8 +8,16 @@ Here is the image of the hackpad assembled. I cannot get the colors to be here
 schematics
 <img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/d036ce22-14a0-4a6e-934e-c40089d0efad" />
 PCB
-<img width="782" height="614" alt="image" src="https://github.com/user-attachments/assets/2a828392-c980-42df-b39e-bda15d1fe4a5" />
-<img width="1918" height="892" alt="image" src="https://github.com/user-attachments/assets/b3f5205b-ab21-496e-8e73-ae2b24d81ce4" />
+<img width="722" height="619" alt="image" src="https://github.com/user-attachments/assets/673d615e-8884-4322-ba76-6d6015fd4561" />
+<img width="1094" height="860" alt="image" src="https://github.com/user-attachments/assets/47f2f4cb-2818-489e-9499-32c1d01e9154" />
+Image of the case and lid
+Case
+<img width="784" height="637" alt="image" src="https://github.com/user-attachments/assets/cc450a3d-e380-4b91-bc92-c762ed171ff0" />
+Lid
+<img width="911" height="631" alt="image" src="https://github.com/user-attachments/assets/a9d1d036-87c7-4029-b9ff-ec3108b5e5ea" />
+
+
+
 
 
 
