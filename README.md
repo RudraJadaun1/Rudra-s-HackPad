@@ -15,7 +15,19 @@ Case
 <img width="784" height="637" alt="image" src="https://github.com/user-attachments/assets/cc450a3d-e380-4b91-bc92-c762ed171ff0" />
 Lid
 <img width="911" height="631" alt="image" src="https://github.com/user-attachments/assets/a9d1d036-87c7-4029-b9ff-ec3108b5e5ea" />
-
+This is how it will fit together 
+<img width="1079" height="689" alt="image" src="https://github.com/user-attachments/assets/22697faf-16b2-4fc7-aa91-9b93557138df" />
+BOM
+Qty	Component	Description
+1x	Seeed XIAO RP2040 SMD	-
+6x	SK6812 MINI Leds	
+4x  Cherry MX Switches
+1x	EC11 Rotary Encoder	5-Pin Encoder with Push Button
+1x	0.91" OLED Display	128x32 Pixel I2C Display
+1x	Resistor	330Ω or 470Ω (Through-Hole, 1/4 Watt)
+4x	Blank DSA Keycaps
+4x  M3x16 Bolt
+4x  M3 Heatset
 
 
 
